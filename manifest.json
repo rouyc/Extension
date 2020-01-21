@@ -1,0 +1,13 @@
+{
+	"manifest_version": 2,
+	"name":"Extension de ROUY Clément",
+	"description":"Retrouvez sur cette extension tous mes liens utiles",
+	"version":"1.0",
+	"permissions":[
+		"http://*/*",
+		"https://*/*"
+		],
+	"browser_action": {
+		"default_popup":"popup.html"
+	}
+}
